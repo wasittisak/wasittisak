@@ -1,0 +1,20 @@
+What's Link
+-A link is connectivity between two device.
+What are the layers of the OSI reference model?
+-there are 7 layers : Phyaical layer,Data link layer,Network layer2,Transport layer,session layer,Presentation Layer,Application layer.
+ What is backbone network?
+ -A backbone network is centralized infrastructure and distribute routes and data to various network.
+ What's LAN?
+ -A Lan is Local area network.It refers to the connection between computer and network that are locate within a small location.
+ What is a node?
+ -A node is a point or joint where the connection take place.
+ What are routers?
+ -Rourter is a networking device that forward data packet along network.
+ What is point to point link?
+ -A point to point link is a direct connection between two computer on network.
+ What is anonymous FTP?
+ -FTP(File Transfer Protocol) is protocol for acces to file so that user don't neeed to identify themselves to sever.
+ What is subnet mask?
+ -Subnet mask is used to devide the ip address into network address and host address.
+ What is the maximum length allowed for a UTP cable?
+ -The maximum lenght for upt is 80-100 meter.If over limit which must use repeaters.
